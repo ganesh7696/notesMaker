@@ -1,0 +1,19 @@
+{
+    "identityPoolName": "lexdemoapp_identitypool_56a823a3",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "cognito56a823a3",
+    "sharedId": "56a823a3",
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    },
+    "unauthRoleArn": {
+        "Fn::GetAtt": [
+            "UnauthRole",
+            "Arn"
+        ]
+    }
+}

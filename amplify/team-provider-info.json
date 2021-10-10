@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lexdemoapp-dev-55123-authRole",
+      "UnauthRoleArn": "arn:aws:iam::108727621008:role/amplify-lexdemoapp-dev-55123-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::108727621008:role/amplify-lexdemoapp-dev-55123-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-lexdemoapp-dev-55123-deployment",
+      "UnauthRoleName": "amplify-lexdemoapp-dev-55123-unauthRole",
+      "StackName": "amplify-lexdemoapp-dev-55123",
+      "StackId": "arn:aws:cloudformation:us-east-2:108727621008:stack/amplify-lexdemoapp-dev-55123/a1d37c10-29af-11ec-ab51-0658ce54638a",
+      "AmplifyAppId": "d3rvrq5nrexnbf"
+    },
+    "categories": {
+      "auth": {
+        "cognito56a823a3": {}
+      }
+    }
+  }
+}
